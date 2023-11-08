@@ -77,6 +77,6 @@ let userAgeBirth = (birthYear, yearNow) => {
     return resultAgebirth;
   };
   
-  let lastResult = userAgeBirth(2000, 2023);
+  let lastResult = userAgeBirth(1995, 2023);
   console.log(lastResult);
 
